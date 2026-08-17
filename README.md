@@ -162,7 +162,7 @@ Banking-System/
 
 ## 👨‍💻 Author
 
-**Nishant Ranjan**
+**Nishant**
 
 GitHub: [nishant1800](https://github.com/nishant1800)
 
